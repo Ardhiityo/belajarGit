@@ -7,5 +7,5 @@ console.info(fungsiTambah(4,2));
 const fungsiKali = (x, y) => x * y;
 console.info(fungsiKali(5,2));
 
-console.log("Coba Push");
+
 
